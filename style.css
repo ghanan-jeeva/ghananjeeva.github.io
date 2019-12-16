@@ -24,7 +24,7 @@ html, body {
 
 .carousel-caption {
    position: absolute;
-  top: 50%;
+  top: 35%;
 }
 
 .display-3{
@@ -34,6 +34,18 @@ html, body {
 .display-2{
   text-transform: uppercase;
   text-shadow: 1px 1px 10px #000;
+}
+
+.display-4{
+  color: #3f3f3f;
+  top: 50%;
+  font-size:5em;
+  text-shadow: 1px 1px 10px #000
+}
+
+.display-5{
+  font-size: 5em;
+
 }
 
 .social a{
